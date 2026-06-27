@@ -112,18 +112,18 @@ jupyter notebook notebooks/01_data_cleaning.ipynb
 
 ## 📅 Development Timeline
 
-| Day | Task |
-|-----|------|
-| 1 | Project setup and repository structure |
-| 2 | Initial data exploration (EDA) |
-| 3 | Data cleaning and preprocessing |
-| 4 | Dataset merging and feature engineering |
-| 5–6 | Revenue analysis and visualizations |
-| 7–8 | Customer RFM segmentation |
-| 9–10 | Product category analysis |
-| 11–12 | Geographic analysis and maps |
-| 13–14 | Profitability model and Power BI dashboard |
-| 15 | README polish, screenshots, LinkedIn post |
+| Day | Task | Status |
+|-----|------|--------|
+| 1 | Project setup and repository structure | ✅ Done |
+| 2 | Initial data exploration (EDA) — schema inspection, null analysis, distributions | ✅ Done |
+| 3 | Data cleaning and preprocessing | 🔜 |
+| 4 | Dataset merging and feature engineering | 🔜 |
+| 5–6 | Revenue analysis and visualizations | 🔜 |
+| 7–8 | Customer RFM segmentation | 🔜 |
+| 9–10 | Product category analysis | 🔜 |
+| 11–12 | Geographic analysis and maps | 🔜 |
+| 13–14 | Profitability model and Power BI dashboard | 🔜 |
+| 15 | README polish, screenshots, LinkedIn post | 🔜 |
 
 ---
 
